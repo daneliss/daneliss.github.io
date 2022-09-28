@@ -1,0 +1,16 @@
+body {
+    background-color: aquamarine;
+}
+menu ul {
+    list-style: none;
+}
+menu, ul {
+    padding-left: 0;
+}
+menu ul li {
+    display: inline-block;
+}
+menu a {
+    display: block;
+    padding: 0 10px;
+}
